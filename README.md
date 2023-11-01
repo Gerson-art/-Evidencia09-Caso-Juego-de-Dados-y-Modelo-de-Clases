@@ -1,5 +1,5 @@
 # -Evidencia09-Caso-Juego-de-Dados-y-Modelo-de-Clases
-Integrantes: Joaquín Silva, Sebastián Martinez, Gerson Urrea.
+Integrantes: Sebastián Martinez, Gerson Urrea.
 
 
 Analisis del caso 
